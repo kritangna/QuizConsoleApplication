@@ -1,0 +1,12 @@
+D:\AssignmentProjects\C# Training\QuizProject\ExceptionHandlingClass\bin\Debug\ExceptionHandlingClass.dll
+D:\AssignmentProjects\C# Training\QuizProject\ExceptionHandlingClass\bin\Debug\ExceptionHandlingClass.pdb
+D:\AssignmentProjects\C# Training\QuizProject\ExceptionHandlingClass\obj\Debug\ExceptionHandlingClass.csproj.CoreCompileInputs.cache
+D:\AssignmentProjects\C# Training\QuizProject\ExceptionHandlingClass\obj\Debug\ExceptionHandlingClass.dll
+D:\AssignmentProjects\C# Training\QuizProject\ExceptionHandlingClass\obj\Debug\ExceptionHandlingClass.pdb
+D:\AssignmentProjects\C# Training\QuizProject\ExceptionHandlingClass\obj\Debug\ExceptionHandlingClass.csprojAssemblyReference.cache
+D:\AssignmentProjects\CSharpTraining\QuizProject\ExceptionHandlingClass\bin\Debug\ExceptionHandlingClass.dll
+D:\AssignmentProjects\CSharpTraining\QuizProject\ExceptionHandlingClass\bin\Debug\ExceptionHandlingClass.pdb
+D:\AssignmentProjects\CSharpTraining\QuizProject\ExceptionHandlingClass\obj\Debug\ExceptionHandlingClass.csprojAssemblyReference.cache
+D:\AssignmentProjects\CSharpTraining\QuizProject\ExceptionHandlingClass\obj\Debug\ExceptionHandlingClass.csproj.CoreCompileInputs.cache
+D:\AssignmentProjects\CSharpTraining\QuizProject\ExceptionHandlingClass\obj\Debug\ExceptionHandlingClass.dll
+D:\AssignmentProjects\CSharpTraining\QuizProject\ExceptionHandlingClass\obj\Debug\ExceptionHandlingClass.pdb

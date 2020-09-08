@@ -1,0 +1,9 @@
+D:\AssignmentProjects\C# Training\QuizProject\QuizLibrary\bin\Debug\QuizLibraryDAL.dll
+D:\AssignmentProjects\C# Training\QuizProject\QuizLibrary\bin\Debug\QuizLibraryDAL.pdb
+D:\AssignmentProjects\C# Training\QuizProject\QuizLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\AssignmentProjects\C# Training\QuizProject\QuizLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\AssignmentProjects\C# Training\QuizProject\QuizLibrary\obj\Debug\QuizLibraryDAL.csprojAssemblyReference.cache
+D:\AssignmentProjects\C# Training\QuizProject\QuizLibrary\obj\Debug\QuizLibraryDAL.csproj.CoreCompileInputs.cache
+D:\AssignmentProjects\C# Training\QuizProject\QuizLibrary\obj\Debug\QuizLibraryDAL.csproj.CopyComplete
+D:\AssignmentProjects\C# Training\QuizProject\QuizLibrary\obj\Debug\QuizLibraryDAL.dll
+D:\AssignmentProjects\C# Training\QuizProject\QuizLibrary\obj\Debug\QuizLibraryDAL.pdb

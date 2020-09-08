@@ -1,0 +1,12 @@
+D:\AssignmentProjects\C# Training\QuizProject\UserDetails\bin\Debug\UserDetails.dll
+D:\AssignmentProjects\C# Training\QuizProject\UserDetails\bin\Debug\UserDetails.pdb
+D:\AssignmentProjects\C# Training\QuizProject\UserDetails\obj\Debug\UserDetails.csprojAssemblyReference.cache
+D:\AssignmentProjects\C# Training\QuizProject\UserDetails\obj\Debug\UserDetails.csproj.CoreCompileInputs.cache
+D:\AssignmentProjects\C# Training\QuizProject\UserDetails\obj\Debug\UserDetails.dll
+D:\AssignmentProjects\C# Training\QuizProject\UserDetails\obj\Debug\UserDetails.pdb
+D:\AssignmentProjects\CSharpTraining\QuizProject\UserDetails\bin\Debug\UserDetails.dll
+D:\AssignmentProjects\CSharpTraining\QuizProject\UserDetails\bin\Debug\UserDetails.pdb
+D:\AssignmentProjects\CSharpTraining\QuizProject\UserDetails\obj\Debug\UserDetails.csprojAssemblyReference.cache
+D:\AssignmentProjects\CSharpTraining\QuizProject\UserDetails\obj\Debug\UserDetails.csproj.CoreCompileInputs.cache
+D:\AssignmentProjects\CSharpTraining\QuizProject\UserDetails\obj\Debug\UserDetails.dll
+D:\AssignmentProjects\CSharpTraining\QuizProject\UserDetails\obj\Debug\UserDetails.pdb

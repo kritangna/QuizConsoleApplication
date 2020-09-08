@@ -1,0 +1,32 @@
+[
+  {
+    "GetQuestionPhrase": "Entomology is the science that studies",
+    "Options": {
+      "One": "Behavior of human beings",
+      "Two": "Insects",
+      "Three": "The origin and history of technical and scientific terms",
+      "Four": "The formation of rocks"
+    },
+    "CorrectAnswer": "Insects"
+  },
+  {
+    "GetQuestionPhrase": "Grand Central Terminal, Park Avenue, New York is the world's?",
+    "Options": {
+      "One": "Largest Railway Station",
+      "Two": "Highest Railway Station",
+      "Three": "Longest Railway Station",
+      "Four": "Oldest Railway Station"
+    },
+    "CorrectAnswer": "Largest Railway Station"
+  },
+  {
+    "GetQuestionPhrase": "Where is world bank?",
+    "Options": {
+      "One": "Kurnool",
+      "Two": "Meerut",
+      "Three": "Bangalore",
+      "Four": "Noida" 
+    },
+    "CorrectAnswer": "Kurnool"
+  }
+]

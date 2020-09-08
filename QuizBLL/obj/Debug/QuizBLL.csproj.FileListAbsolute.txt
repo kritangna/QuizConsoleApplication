@@ -1,0 +1,6 @@
+D:\AssignmentProjects\C# Training\QuizProject\QuizBLL\bin\Debug\QuizBLL.dll
+D:\AssignmentProjects\C# Training\QuizProject\QuizBLL\bin\Debug\QuizBLL.pdb
+D:\AssignmentProjects\C# Training\QuizProject\QuizBLL\obj\Debug\QuizBLL.csprojAssemblyReference.cache
+D:\AssignmentProjects\C# Training\QuizProject\QuizBLL\obj\Debug\QuizBLL.csproj.CoreCompileInputs.cache
+D:\AssignmentProjects\C# Training\QuizProject\QuizBLL\obj\Debug\QuizBLL.dll
+D:\AssignmentProjects\C# Training\QuizProject\QuizBLL\obj\Debug\QuizBLL.pdb

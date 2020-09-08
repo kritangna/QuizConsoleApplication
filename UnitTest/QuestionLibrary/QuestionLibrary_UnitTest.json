@@ -1,0 +1,92 @@
+[
+  {
+    "GetQuestionPhrase": "Where is world bank?",
+    "Options": {
+      "One": "Kurnool",
+      "Two": "Meerut",
+      "Three": "Bangalore",
+      "Four": "Noida"
+    },
+    "CorrectAnswer": "Kurnool"
+  },
+  {
+    "GetQuestionPhrase": "In computer world, what does trojan refers to?",
+    "Options": {
+      "One": "Virus",
+      "Two": "Malware",
+      "Three": "Worm",
+      "Four": "Spyware"
+    },
+    "CorrectAnswer": "Malware"
+  },
+  {
+    "GetQuestionPhrase": "Who is known as the father of Indian SuperComputer?",
+    "Options": {
+      "One": "Raghunath Mashelkar",
+      "Two": "Vijay Bhatkar",
+      "Three": "Jayant Narliker",
+      "Four": "Nandan Nilekani"
+    },
+    "CorrectAnswer": "Vijay Bhatkar"
+  },
+  {
+    "GetQuestionPhrase": "First mechanical computer designed by Charles Babbage was called?",
+    "Options": {
+      "One": "Abacus",
+      "Two": "Calculator",
+      "Three": "Analytical Engine",
+      "Four": "Processor"
+    },
+    "CorrectAnswer": "Analytical Engine"
+  },
+  {
+    "GetQuestionPhrase": "Computer hard disk was first introduced in One956 by which company?",
+    "Options": {
+      "One": "Dell",
+      "Two": "Apple",
+      "Three": "Microsoft",
+      "Four": "IBM"
+    },
+    "CorrectAnswer": "IBM"
+  },
+  {
+    "GetQuestionPhrase": "Whiuch computer program converts assembly language to machine language?",
+    "Options": {
+      "One": "Interpreter",
+      "Two": "Compiler",
+      "Three": "Assembler",
+      "Four": "Comparator"
+    },
+    "CorrectAnswer": "Assembler"
+  },
+  {
+    "GetQuestionPhrase": "What name can not  be used to create a folder in a computer?",
+    "Options": {
+      "One": "can",
+      "Two": "make",
+      "Three": "mak",
+      "Four": "con"
+    },
+    "CorrectAnswer": "con"
+  },
+  {
+    "GetQuestionPhrase": "Graphic interfaces were first used in a xerox product is called?",
+    "Options": {
+      "One": "Ethernet",
+      "Two": "Inter LISP",
+      "Three": "Small Talk",
+      "Four": "Zeta LISP"
+    },
+    "CorrectAnswer": "Ethernet"
+  },
+  {
+    "GetQuestionPhrase": "Which is a single integrated chip?",
+    "Options": {
+      "One": "Gate",
+      "Two": "MotherBoard",
+      "Three": "Chip",
+      "Four": "CPU"
+    },
+    "CorrectAnswer": "Gate"
+  }
+]

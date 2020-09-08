@@ -1,0 +1,32 @@
+[
+  {
+    "GetQuestionPhrase": "When was Vikrama Era began?",
+    "Options": {
+      "One": "26",
+      "Two": "27",
+      "Three": "28",
+      "Four": "29"
+    },
+    "CorrectAnswer": "28"
+  },
+  {
+    "GetQuestionPhrase": " When was the Saka Era began?",
+    "Options": {
+      "One": "47 BC",
+      "Two": "50 BC" ,
+      "Three": "55 BC",
+      "Four": "57 BC"
+    },
+    "CorrectAnswer": "From 78 AD"
+  },
+  {
+    "GetQuestionPhrase":  "How many states were divided in the northwestern India during Alexander's invasion?",
+    "Options": {
+      "One": "26",
+      "Two": "27",
+      "Three": "28",
+      "Four": "29"
+    },
+    "CorrectAnswer": "28"
+  }
+]
